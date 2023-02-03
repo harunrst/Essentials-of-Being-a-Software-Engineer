@@ -20,7 +20,7 @@ _“You don’t own the past or the future, you only own now in this life.”_ -
 
 ## Real-life Stories
 
-- 🌎 Do you have any good stress management stories? Share them with me!
+- 🌎 Do you have any good stress management stories? Share them with us!
 
 ## The End of Chapter 1: Awakenings
 
