@@ -1,3 +1,5 @@
+<p id="reading-time-action-id" align="left">7 min read</p>
+
 [**← Back to "Who are you?"**](who_are_you.md)
 
 # Introduction to Learning

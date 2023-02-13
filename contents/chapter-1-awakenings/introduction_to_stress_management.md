@@ -1,3 +1,5 @@
+<p id="reading-time-action-id" align="left">3 min read</p>
+
 [**← Back to "Principles at Work"**](principles_at_work.md)
 
 # Introduction to Stress Management
