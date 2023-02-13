@@ -1,3 +1,5 @@
+<p id="reading-time-action-id" align="left">1 min read</p>
+
 # Essentials of Being a Software Engineer
 
 ## Authors

@@ -1,3 +1,5 @@
+<p id="reading-time-action-id" align="left">3 min read</p>
+
 [**← Back to contents**](../../common/contents.md)
 
 # Who are you?

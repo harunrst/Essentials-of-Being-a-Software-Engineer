@@ -1,3 +1,5 @@
+<p id="reading-time-action-id" align="left">11 min read</p>
+
 [**← Back to "Introduction to Learning"**](introduction_to_learning.md)
 
 # Principles at Work
